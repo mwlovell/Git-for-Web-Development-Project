@@ -73,12 +73,13 @@ div .sidebar{}
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
     rm it totally deletes it
     34. Why should I use version control? 
-
+    it enables multiple people to work on it at the same time
     35. How often should I commit to github?
     every 15 minutes or after big finishes through project
     36. What is the command we would use to push our repo up to github? 
-
+    git push or git push -u origin branchname for first time
     37. Walk me through Lambda's git flow. 
+    https://bloomtech.notion.site/bloomtech/BloomTech-Git-Flow-Step-by-step-269f68ae3bf64eb689a8328715a179f9
 
 Stretch Questions
 
